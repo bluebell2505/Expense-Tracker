@@ -7,5 +7,7 @@ This repository contains the source code for a user-friendly expense tracker pro
 Features:
 
 Add expenses: Easily add new expenses by entering amount and category.
+
 View expenses: Display a clear and organized list of all recorded expenses.
+
 Calculate total expenses: Get a quick overview of your total spending.
